@@ -156,7 +156,7 @@ class TraceGraphNetworkBuilder:
 
         for newline_index in reversed(newline_indexes):
             prefix = long_string[:newline_index]
-            postfix = long_string[newline_index + 1:]
+            postfix = long_string[newline_index:]
 
             long_string = ''.join([prefix, '\n', postfix])
 
