@@ -2,9 +2,7 @@
 
 ### Description:
 
-eBPF, Cron, Networkx, PyVis to trace PID, PPID, COMMANDS and produce a visualization of the Linux kernel (and beyond).
-
-(dont mind the unconventional OOP structure)
+eBPF, Cron, Networkx, PyVis to trace PID, PPID, COMMANDS and produce a visualization of the Linux kernel (and beyond) -- dont mind the unconventional OOP structure. If you don't want to download/clone anything to experience the visualizer, you can check it out at this [Google Site](https://sites.google.com/lochnessanalytics.org/kernelgraph/). It is all contained within an HTML page (PyVis is dope).
 
 ### [Iktomi](https://en.wikipedia.org/wiki/Iktomi)
 
